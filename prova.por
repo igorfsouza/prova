@@ -31,8 +31,8 @@ programa
 		a[i][1]=("Igor ferreira de souza")
 		a[1][0]=("Professor: ")
 		a[1][1]=("Lucas gois")
-		a[2][0]=("unidade uricular")
-		a[2][1]="logica de programaçao: "
+		a[2][0]=("unidade curicular: ")
+		a[2][1]="logica de programaçao "
 		a[3][0]="data: "
 		a[3][1]=Data(dia,mes,ano)
 		a[4][0]="Nota: "
